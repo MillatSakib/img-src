@@ -1,0 +1,104 @@
+[
+  {
+    "recipeImage": "https://example.com/chicken-curry.jpg",
+    "recipeId": "001",
+    "recipeName": "Chicken Curry",
+    "shortDescription": "A flavorful Indian chicken curry with aromatic spices.",
+    "ingredientsInArray": [
+      "500 g chicken",
+      "2 onions",
+      "3 tomatoes",
+      "4 cloves garlic",
+      "1 inch ginger",
+      "2 tbsp curry powder",
+      "200 ml coconut milk"
+    ],
+    "preparingTime": "45 minutes",
+    "calories": "400 kcal per serving"
+  },
+  {
+    "recipeImage": "https://example.com/spaghetti-bolognese.jpg",
+    "recipeId": "002",
+    "recipeName": "Spaghetti Bolognese",
+    "shortDescription": "Classic Italian pasta dish with meaty Bolognese sauce.",
+    "ingredientsInArray": [
+      "400 g spaghetti",
+      "300 g ground beef",
+      "1 onion",
+      "2 cloves garlic",
+      "1 can crushed tomatoes",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparingTime": "30 minutes",
+    "calories": "550 kcal per serving"
+  },
+  {
+    "recipeImage": "https://example.com/vegetable-stir-fry.jpg",
+    "recipeId": "003",
+    "recipeName": "Vegetable Stir-Fry",
+    "shortDescription": "A healthy and colorful stir-fry with assorted vegetables.",
+    "ingredientsInArray": [
+      "1 red bell pepper",
+      "1 yellow bell pepper",
+      "1 green bell pepper",
+      "1 carrot",
+      "100 g snow peas",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil"
+    ],
+    "preparingTime": "20 minutes",
+    "calories": "200 kcal per serving"
+  },
+  {
+    "recipeImage": "https://example.com/chocolate-chip-cookies.jpg",
+    "recipeId": "004",
+    "recipeName": "Chocolate Chip Cookies",
+    "shortDescription": "Delicious homemade cookies filled with chocolate chips.",
+    "ingredientsInArray": [
+      "200 g all-purpose flour",
+      "150 g butter",
+      "100 g brown sugar",
+      "100 g chocolate chips",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "1/2 tsp baking soda"
+    ],
+    "preparingTime": "25 minutes",
+    "calories": "150 kcal per cookie"
+  },
+  {
+    "recipeImage": "https://example.com/greek-salad.jpg",
+    "recipeId": "005",
+    "recipeName": "Greek Salad",
+    "shortDescription": "A refreshing salad with tomatoes, cucumbers, feta cheese, and olives.",
+    "ingredientsInArray": [
+      "2 tomatoes",
+      "1 cucumber",
+      "100 g feta cheese",
+      "50 g black olives",
+      "1/4 red onion",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice"
+    ],
+    "preparingTime": "15 minutes",
+    "calories": "250 kcal per serving"
+  },
+  {
+    "recipeImage": "https://example.com/tofu-stir-fry.jpg",
+    "recipeId": "006",
+    "recipeName": "Tofu Stir-Fry",
+    "shortDescription": "A vegetarian stir-fry with tofu, broccoli, and bell peppers.",
+    "ingredientsInArray": [
+      "300 g firm tofu",
+      "1 broccoli head",
+      "1 red bell pepper",
+      "1 yellow bell pepper",
+      "2 tbsp soy sauce",
+      "1 tbsp cornstarch",
+      "1 tsp sesame seeds"
+    ],
+    "preparingTime": "25 minutes",
+    "calories": "300 kcal per serving"
+  }
+]
