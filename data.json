@@ -1,6 +1,6 @@
 [
   {
-    "recipeImage": "https://example.com/chicken-curry.jpg",
+    "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Chicken_Curry.jpg",
     "recipeId": "001",
     "recipeName": "Chicken Curry",
     "shortDescription": "A flavorful Indian chicken curry with aromatic spices.",
@@ -17,7 +17,7 @@
     "calories": "400 kcal per serving"
   },
   {
-    "recipeImage": "https://example.com/spaghetti-bolognese.jpg",
+    "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Spaghetti_Bolognese.jpg",
     "recipeId": "002",
     "recipeName": "Spaghetti Bolognese",
     "shortDescription": "Classic Italian pasta dish with meaty Bolognese sauce.",
@@ -34,7 +34,7 @@
     "calories": "550 kcal per serving"
   },
   {
-    "recipeImage": "https://example.com/vegetable-stir-fry.jpg",
+    "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Tofu_Stir-Fry.jpg",
     "recipeId": "003",
     "recipeName": "Vegetable Stir-Fry",
     "shortDescription": "A healthy and colorful stir-fry with assorted vegetables.",
@@ -51,8 +51,8 @@
     "calories": "200 kcal per serving"
   },
   {
-    "recipeImage": "https://example.com/margherita-pizza.jpg",
-    "recipeId": "007",
+    "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Margherita_Pizza.jpg",
+    "recipeId": "004",
     "recipeName": "Margherita Pizza",
     "shortDescription": "Classic Italian pizza with tomato sauce, mozzarella cheese, and fresh basil.",
     "ingredientsInArray": [
@@ -67,7 +67,7 @@
     "calories": "300 kcal per slice"
   },
   {
-    "recipeImage": "https://example.com/greek-salad.jpg",
+    "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Greek_Salad.jpg",
     "recipeId": "005",
     "recipeName": "Greek Salad",
     "shortDescription": "A refreshing salad with tomatoes, cucumbers, feta cheese, and olives.",
@@ -84,7 +84,7 @@
     "calories": "250 kcal per serving"
   },
   {
-    "recipeImage": "https://example.com/tofu-stir-fry.jpg",
+    "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/hm-cumin-tofu-articleLarge.jpg",
     "recipeId": "006",
     "recipeName": "Tofu Stir-Fry",
     "shortDescription": "A vegetarian stir-fry with tofu, broccoli, and bell peppers.",
