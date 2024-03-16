@@ -51,21 +51,20 @@
     "calories": "200 kcal per serving"
   },
   {
-    "recipeImage": "https://example.com/chocolate-chip-cookies.jpg",
-    "recipeId": "004",
-    "recipeName": "Chocolate Chip Cookies",
-    "shortDescription": "Delicious homemade cookies filled with chocolate chips.",
+    "recipeImage": "https://example.com/margherita-pizza.jpg",
+    "recipeId": "007",
+    "recipeName": "Margherita Pizza",
+    "shortDescription": "Classic Italian pizza with tomato sauce, mozzarella cheese, and fresh basil.",
     "ingredientsInArray": [
-      "200 g all-purpose flour",
-      "150 g butter",
-      "100 g brown sugar",
-      "100 g chocolate chips",
-      "1 egg",
-      "1 tsp vanilla extract",
-      "1/2 tsp baking soda"
+      "1 pizza dough",
+      "200 g mozzarella cheese",
+      "200 ml tomato sauce",
+      "Handful of fresh basil leaves",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
     ],
-    "preparingTime": "25 minutes",
-    "calories": "150 kcal per cookie"
+    "preparingTime": "30 minutes",
+    "calories": "300 kcal per slice"
   },
   {
     "recipeImage": "https://example.com/greek-salad.jpg",
