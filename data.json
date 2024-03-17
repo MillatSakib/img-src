@@ -14,7 +14,7 @@
       "200 ml coconut milk"
     ],
     "preparingTime": "45 minutes",
-    "calories": "400 kcal per serving"
+    "calories": "400 calories"
   },
   {
     "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Spaghetti_Bolognese.jpg",
@@ -31,7 +31,7 @@
       "Salt and pepper to taste"
     ],
     "preparingTime": "30 minutes",
-    "calories": "550 kcal per serving"
+    "calories": "550 calories"
   },
   {
     "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Tofu_Stir-Fry.jpg",
@@ -48,7 +48,7 @@
       "1 tbsp sesame oil"
     ],
     "preparingTime": "20 minutes",
-    "calories": "200 kcal per serving"
+    "calories": "200 calories"
   },
   {
     "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Margherita_Pizza.jpg",
@@ -64,7 +64,7 @@
       "Salt and pepper to taste"
     ],
     "preparingTime": "30 minutes",
-    "calories": "300 kcal per slice"
+    "calories": "300 calories"
   },
   {
     "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/Greek_Salad.jpg",
@@ -81,7 +81,7 @@
       "1 tbsp lemon juice"
     ],
     "preparingTime": "15 minutes",
-    "calories": "250 kcal per serving"
+    "calories": "250 calories"
   },
   {
     "recipeImage": "https://raw.githubusercontent.com/MillatSakib/img-src/main/hm-cumin-tofu-articleLarge.jpg",
@@ -98,6 +98,6 @@
       "1 tsp sesame seeds"
     ],
     "preparingTime": "25 minutes",
-    "calories": "300 kcal per serving"
+    "calories": "300 calories"
   }
 ]
