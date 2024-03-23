@@ -1,0 +1,44 @@
+{
+  "price_options": [
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": "$30 per month",
+      "features": [
+        "Access to gym facilities during regular hours",
+        "Limited group fitness classes",
+        "No access to specialized equipment",
+        "Locker room access",
+        "Discounts on gym merchandise"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": "$50 per month",
+      "features": [
+        "Access to gym facilities 24/7",
+        "Full access to group fitness classes",
+        "Basic access to specialized equipment",
+        "Locker room access",
+        "Discounts on gym merchandise",
+        "Nutritional guidance"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": "$80 per month",
+      "features": [
+        "Access to gym facilities 24/7",
+        "Unlimited group fitness classes",
+        "Full access to specialized equipment",
+        "Personalized workout plans",
+        "Locker room access",
+        "Discounts on gym merchandise",
+        "Nutritional guidance",
+        "Access to sauna and spa facilities"
+      ]
+    }
+  ]
+}
