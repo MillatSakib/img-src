@@ -1,5 +1,4 @@
-{
-  "price_options": [
+[
     {
       "id": 1,
       "name": "Basic Membership",
@@ -41,4 +40,4 @@
       ]
     }
   ]
-}
+
