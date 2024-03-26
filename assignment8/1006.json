@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1006,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/The_Hobbit.png",
+    "review": "The Hobbit by J.R.R. Tolkien is an adventurous tale that takes readers on a journey with Bilbo Baggins, a hobbit who embarks on a quest to reclaim treasure guarded by the dragon Smaug. Along the way, Bilbo encounters trolls, elves, goblins, and a mysterious creature named Gollum. Tolkien's richly imagined world of Middle-earth, filled with magic, dwarves, and epic battles, captivates readers of all ages. The Hobbit not only entertains with its thrilling adventures but also explores themes of courage, friendship, and the power of unexpected heroism.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": ["Fantasy", "Adventure"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1004,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/1984.png",
+    "review": "1984 by George Orwell is a dystopian masterpiece that paints a chilling picture of a totalitarian regime's control over society. Set in a future where individuality is suppressed, and Big Brother watches everything, the novel follows Winston Smith as he rebels against the Party's oppressive rule. Through themes of surveillance, propaganda, and thought control, Orwell's prophetic vision warns of the dangers of authoritarianism and the erosion of freedom. 1984 remains a relevant and thought-provoking work, sparking discussions about government overreach, privacy rights, and the power of truth in the face of manipulation and deception.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": ["Fiction", "Dystopian"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  }
+]

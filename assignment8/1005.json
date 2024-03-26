@@ -1,0 +1,15 @@
+[
+ {
+    "bookId": 1005,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/Pride_and_Prejudice.png",
+    "review": "Pride and Prejudice, written by Jane Austen, is a classic romantic novel that offers a witty and insightful commentary on societal norms and personal growth. The story follows Elizabeth Bennet as she navigates the complexities of love, marriage, and social status in Regency-era England. Austen's sharp wit, memorable characters, and keen observations of human nature make this novel a timeless favorite. Pride and Prejudice not only entertains with its romantic plot but also delves into themes of prejudice, pride, and the importance of understanding and self-awareness.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": ["Fiction", "Romance"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  } 
+]

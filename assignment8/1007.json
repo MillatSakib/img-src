@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1007,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/Harry_Potter_and_the_Philosopher_Stone.png",
+    "review": "Harry Potter and the Philosopher's Stone, the first book in the iconic series by J.K. Rowling, introduces readers to the magical world of Hogwarts School of Witchcraft and Wizardry. Follow Harry Potter, a young wizard, as he discovers his true identity, makes lifelong friends like Hermione Granger and Ron Weasley, and confronts the dark wizard Voldemort. Rowling's imaginative storytelling, enchanting characters, and richly detailed universe have captivated millions of readers worldwide. The book's themes of friendship, courage, and the battle between good and evil resonate with readers of all ages, making it a modern fantasy classic.",
+    "totalPages": 320,
+    "rating": 4.9,
+    "category": ["Fantasy", "Magic"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Bloomsbury Publishing",
+    "yearOfPublishing": 1997
+  }
+]

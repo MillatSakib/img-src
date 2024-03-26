@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1008,
+    "bookName": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/The_Lord_of_the_Rings.png",
+    "review": "The Lord of the Rings, a fantasy epic by J.R.R. Tolkien, follows Frodo Baggins on his perilous quest to destroy the One Ring and save Middle-earth from the dark lord Sauron. Joined by a diverse fellowship including Aragorn, Legolas, and Gandalf the wizard, Frodo embarks on an epic journey fraught with danger and adventure. Tolkien's intricate world-building, rich mythology, and themes of heroism, sacrifice, and the battle against overwhelming odds have made The Lord of the Rings a cornerstone of fantasy literature. Its timeless appeal continues to inspire readers and fans of epic storytelling across generations.",
+    "totalPages": 1178,
+    "rating": 4.8,
+    "category": ["Fantasy", "Epic"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1954
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1002,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/To_Kill_a_Mockingbird.png",
+    "review": "To Kill a Mockingbird, penned by Harper Lee, is a powerful narrative that confronts racial injustice in a Southern town during the 1930s. The story unfolds through the eyes of Scout Finch, a young girl, whose father, Atticus Finch, defends a black man falsely accused of raping a white woman. Through Scout's innocence and curiosity, the novel explores complex themes of morality, compassion, and the harsh realities of prejudice and discrimination. Harper Lee's masterful storytelling and vivid character development make this book a timeless classic, resonating with readers of all ages. It's a poignant reminder of the importance of empathy and standing up for what is right, even in the face of adversity.",
+    "totalPages": 324,
+    "rating": 4.8,
+    "category": ["Fiction", "Social Justice"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1003,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/The-Catcher-in-the-Rye.png",
+    "review": "The Catcher in the Rye by J.D. Salinger is a compelling exploration of teenage angst and rebellion. The protagonist, Holden Caulfield, narrates his experiences after being expelled from prep school, reflecting on his alienation from society and his search for authenticity and meaning. The novel deals with themes of identity, alienation, and the loss of innocence, capturing the disillusionment many young people face as they navigate the complexities of adulthood. Salinger's writing style, characterized by Holden's distinctive voice and raw emotions, resonates with readers, making this novel a timeless coming-of-age classic.",
+    "totalPages": 277,
+    "rating": 4.3,
+    "category": ["Fiction", "Coming of Age"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  }
+]
