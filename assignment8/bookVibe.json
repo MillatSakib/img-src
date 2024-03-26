@@ -8,7 +8,7 @@
     "totalPages": 218,
     "rating": 4.5,
     "category": ["Fiction", "Drama"],
-    "tags": ["Suspense", "Psychological"],
+    "tags": ["Love", "Wealth"],
     "publisher": "Scribner",
     "yearOfPublishing": 1925
   },
@@ -34,7 +34,7 @@
     "totalPages": 277,
     "rating": 4.3,
     "category": ["Fiction", "Coming of Age"],
-    "tags": ["Suspense", "Psychological"],
+    "tags": ["Teenage Angst", "Identity"],
     "publisher": "Little, Brown and Company",
     "yearOfPublishing": 1951
   },
@@ -46,7 +46,7 @@
     "review": "1984 by George Orwell is a dystopian masterpiece that paints a chilling picture of a totalitarian regime's control over society. Set in a future where individuality is suppressed, and Big Brother watches everything, the novel follows Winston Smith as he rebels against the Party's oppressive rule. Through themes of surveillance, propaganda, and thought control, Orwell's prophetic vision warns of the dangers of authoritarianism and the erosion of freedom. 1984 remains a relevant and thought-provoking work, sparking discussions about government overreach, privacy rights, and the power of truth in the face of manipulation and deception.",
     "totalPages": 328,
     "rating": 4.6,
-    "category": ["Fiction", "Dystopian"],
+    "category": ["Fiction", "Coming of Age"],
     "tags": ["Suspense", "Psychological"],
     "publisher": "Secker & Warburg",
     "yearOfPublishing": 1949
@@ -60,7 +60,7 @@
     "totalPages": 279,
     "rating": 4.7,
     "category": ["Fiction", "Romance"],
-    "tags": ["Suspense", "Psychological"],
+    "tags": ["Societal Norms", "Personal Growth"],
     "publisher": "T. Egerton, Whitehall",
     "yearOfPublishing": 1813
   },
@@ -73,7 +73,7 @@
     "totalPages": 310,
     "rating": 4.9,
     "category": ["Fantasy", "Adventure"],
-    "tags": ["Suspense", "Psychological"],
+    "tags": ["Adventure", "Quest"],
     "publisher": "Allen & Unwin",
     "yearOfPublishing": 1937
   },
@@ -86,7 +86,7 @@
     "totalPages": 320,
     "rating": 4.9,
     "category": ["Fantasy", "Magic"],
-    "tags": ["Suspense", "Psychological"],
+    "tags": ["Surveillance", "Freedom"],
     "publisher": "Bloomsbury Publishing",
     "yearOfPublishing": 1997
   },
@@ -99,7 +99,7 @@
     "totalPages": 1178,
     "rating": 4.8,
     "category": ["Fantasy", "Epic"],
-    "tags": ["Suspense", "Psychological"],
+    "tags": ["Identity", "Loss of Innocence"],
     "publisher": "Allen & Unwin",
     "yearOfPublishing": 1954
   }
