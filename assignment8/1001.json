@@ -1,0 +1,15 @@
+[
+  {
+    "bookId": 1001,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://raw.githubusercontent.com/MillatSakib/img-src/main/assignment8/The_Great_Gatsby.png",
+    "review": "A tragic story of love, wealth, and betrayal set in the Jazz Age.",
+    "totalPages": 218,
+    "rating": 4.5,
+    "category": ["Fiction", "Drama"],
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  }
+]
