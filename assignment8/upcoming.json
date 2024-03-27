@@ -1,6 +1,7 @@
 [
   {
     "categoryName": "Science",
+    "description": "Discover groundbreaking narratives in the realm of speculative fiction.",
     "books": [
       {
         "bookName": "The Winds of Winter",
@@ -54,6 +55,7 @@
   },
   {
     "categoryName": "History",
+    "description": "Discover captivating stories from the past that continue to intrigue and inspire.",
     "books": [
       {
         "bookName": "The Splendid and the Vile",
@@ -107,6 +109,7 @@
   },
   {
     "categoryName": "Mystery",
+    "description": "Uncover thrilling mysteries and delve into gripping suspense with these captivating reads.",
     "books": [
       {
         "bookName": "The Silent Patient",
