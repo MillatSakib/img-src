@@ -1,0 +1,161 @@
+[
+  {
+    "categoryName": "Science",
+    "books": [
+      {
+        "bookName": "The Winds of Winter",
+        "writerName": "George R.R. Martin",
+        "category": "Fantasy",
+        "rating": 4.7,
+        "publishedDate": "2022-09-15",
+        "releaseDate": "2023-05-01"
+      },
+      {
+        "bookName": "The Ballad of Songbirds and Snakes",
+        "writerName": "Suzanne Collins",
+        "category": "Young Adult",
+        "rating": 4.5,
+        "publishedDate": "2023-01-20",
+        "releaseDate": "2023-08-10"
+      },
+      {
+        "bookName": "Artemis",
+        "writerName": "Andy Weir",
+        "category": "Science Fiction",
+        "rating": 4.6,
+        "publishedDate": "2017-11-14",
+        "releaseDate": "2017-11-14"
+      },
+      {
+        "bookName": "A Brief History of Time",
+        "writerName": "Stephen Hawking",
+        "category": "Non-Fiction",
+        "rating": 4.8,
+        "publishedDate": "1988-04-01",
+        "releaseDate": "1988-04-01"
+      },
+      {
+        "bookName": "Astrophysics for People in a Hurry",
+        "writerName": "Neil deGrasse Tyson",
+        "category": "Non-Fiction",
+        "rating": 4.5,
+        "publishedDate": "2017-05-02",
+        "releaseDate": "2017-05-02"
+      },
+      {
+        "bookName": "The Martian",
+        "writerName": "Andy Weir",
+        "category": "Science Fiction",
+        "rating": 4.9,
+        "publishedDate": "2011-02-28",
+        "releaseDate": "2011-02-28"
+      }
+    ]
+  },
+  {
+    "categoryName": "History",
+    "books": [
+      {
+        "bookName": "The Splendid and the Vile",
+        "writerName": "Erik Larson",
+        "category": "Non-Fiction",
+        "rating": 4.6,
+        "publishedDate": "2020-02-25",
+        "releaseDate": "2020-03-03"
+      },
+      {
+        "bookName": "The Romanovs: 1613-1918",
+        "writerName": "Simon Sebag Montefiore",
+        "category": "Biography",
+        "rating": 4.8,
+        "publishedDate": "2016-01-28",
+        "releaseDate": "2016-02-16"
+      },
+      {
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "writerName": "Yuval Noah Harari",
+        "category": "Non-Fiction",
+        "rating": 4.7,
+        "publishedDate": "2011-02-10",
+        "releaseDate": "2011-02-15"
+      },
+      {
+        "bookName": "1491: New Revelations of the Americas Before Columbus",
+        "writerName": "Charles C. Mann",
+        "category": "History",
+        "rating": 4.5,
+        "publishedDate": "2005-08-09",
+        "releaseDate": "2005-08-16"
+      },
+      {
+        "bookName": "The Guns of August",
+        "writerName": "Barbara W. Tuchman",
+        "category": "History",
+        "rating": 4.9,
+        "publishedDate": "1962-10-16",
+        "releaseDate": "1962-10-16"
+      },
+      {
+        "bookName": "Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",
+        "writerName": "Stephen E. Ambrose",
+        "category": "History",
+        "rating": 4.8,
+        "publishedDate": "1992-05-07",
+        "releaseDate": "1992-06-06"
+      }
+    ]
+  },
+  {
+    "categoryName": "Mystery",
+    "books": [
+      {
+        "bookName": "The Silent Patient",
+        "writerName": "Alex Michaelides",
+        "category": "Psychological Thriller",
+        "rating": 4.4,
+        "publishedDate": "2019-02-05",
+        "releaseDate": "2019-02-26"
+      },
+      {
+        "bookName": "The Woman in the Window",
+        "writerName": "A.J. Finn",
+        "category": "Suspense",
+        "rating": 4.7,
+        "publishedDate": "2018-01-02",
+        "releaseDate": "2018-01-23"
+      },
+      {
+        "bookName": "Gone Girl",
+        "writerName": "Gillian Flynn",
+        "category": "Mystery",
+        "rating": 4.8,
+        "publishedDate": "2012-06-05",
+        "releaseDate": "2012-06-05"
+      },
+      {
+        "bookName": "The Da Vinci Code",
+        "writerName": "Dan Brown",
+        "category": "Thriller",
+        "rating": 4.6,
+        "publishedDate": "2003-03-18",
+        "releaseDate": "2003-03-18"
+      },
+      {
+        "bookName": "The Girl with the Dragon Tattoo",
+        "writerName": "Stieg Larsson",
+        "category": "Crime Fiction",
+        "rating": 4.7,
+        "publishedDate": "2005-08-28",
+        "releaseDate": "2005-08-28"
+      },
+      {
+        "bookName": "The Cuckoo's Calling",
+        "writerName": "Robert Galbraith (J.K. Rowling)",
+        "category": "Detective",
+        "rating": 4.5,
+        "publishedDate": "2013-04-30",
+        "releaseDate": "2013-04-30"
+      }
+    ]
+  }
+]
