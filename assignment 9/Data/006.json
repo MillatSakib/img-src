@@ -1,0 +1,22 @@
+{
+  "image": [
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-6/1.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-6/2.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-6/3.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-6/4.jpg"
+  ],
+  "title": "Penthouse with Rooftop Terrace",
+  "id": "006",
+  "segment_name": "Luxury Apartments",
+  "short_description": "Experience the pinnacle of urban living with this luxurious penthouse apartment boasting a private rooftop terrace and unparalleled views of the city skyline. Step off the private elevator directly into the foyer, where floor-to-ceiling windows bathe the space in natural light and offer sweeping vistas of the surrounding metropolis. The open-concept layout seamlessly connects the living, dining, and kitchen areas, creating an ideal space for both intimate gatherings and lavish soirées. The gourmet kitchen is a chef's dream, featuring top-of-the-line appliances, custom cabinetry, and a spacious island perfect for culinary experimentation. Retreat to the master suite, where a sumptuous en-suite bathroom and walk-in closet provide the ultimate in comfort and convenience. Outside, the expansive rooftop terrace beckons with its lush greenery, comfortable seating areas, and panoramic views stretching to the horizon. Whether you're sipping cocktails under the stars or hosting a dinner party with friends, this penthouse offers an unparalleled lifestyle of luxury and refinement in the heart of the city.",
+  "price": 2000000,
+  "status": "sale",
+  "area": 1800,
+  "location": "City Center",
+  "facilities": [2, 1, 1, 3],
+  "acres": 0.8,
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "distance_from_market": 0.7,
+  "distance_from_schools": 1.2
+}

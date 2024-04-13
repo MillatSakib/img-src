@@ -1,0 +1,21 @@
+{
+  "image": [
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-4/1.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-4/2.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-4/3.jpg"
+  ],
+  "title": "Modern Loft with City Views",
+  "id": "004",
+  "segment_name": "Loft Apartments",
+  "short_description": "Perched high above the bustling city streets, this modern loft offers a stylish urban retreat with panoramic views that stretch as far as the eye can see. Step inside and be greeted by soaring ceilings, exposed brick walls, and sleek industrial-inspired design elements that create a chic and contemporary atmosphere. The open-concept layout seamlessly blends the living, dining, and kitchen areas, making it ideal for both everyday living and entertaining guests. Floor-to-ceiling windows flood the space with natural light and offer stunning vistas of the city skyline, providing a constant reminder of the vibrant energy that surrounds you. With trendy restaurants, boutiques, and cultural venues just steps away, you'll experience the very best that city living has to offer from the comfort of your own private sanctuary.",
+  "price": 1000000,
+  "status": "rent",
+  "area": 1500,
+  "location": "Urban Area",
+  "facilities": [1, 0, 1, 2],
+  "acres": 0.8,
+  "latitude": 51.5074,
+  "longitude": -0.1278,
+  "distance_from_market": 0.7,
+  "distance_from_schools": 0.5
+}

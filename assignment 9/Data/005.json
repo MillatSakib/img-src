@@ -1,0 +1,22 @@
+{
+  "image": [
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-5/1.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-5/2.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-5/3.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-5/4.jpg"
+  ],
+  "title": "Country Retreat House",
+  "id": "005",
+  "segment_name": "Rural Homes",
+  "short_description": "Escape the hustle and bustle of city life with this charming country retreat nestled amidst rolling hills and picturesque landscapes. Surrounded by acres of untouched wilderness, this cozy home offers a peaceful sanctuary where you can reconnect with nature and recharge your soul. Step inside to discover a rustic yet inviting living space, complete with exposed wooden beams, stone fireplace, and panoramic views of the surrounding countryside. The spacious kitchen features modern appliances and plenty of counter space, making it perfect for preparing hearty meals using fresh ingredients from the local farmers' market. With multiple bedrooms and bathrooms, there's plenty of room for family and friends to come together and enjoy quality time away from the distractions of everyday life. Outside, the expansive grounds offer endless opportunities for outdoor adventure, from hiking and horseback riding to birdwatching and stargazing. Whether you're seeking a weekend getaway or a permanent retreat from the stresses of modern living, this country retreat house offers the perfect blend of comfort, tranquility, and natural beauty.",
+  "price": 500000,
+  "status": "sale",
+  "area": 3000,
+  "location": "Rural Area",
+  "facilities": [3, 0, 1, 2],
+  "acres": 3.2,
+  "latitude": 51.5074,
+  "longitude": 0.1278,
+  "distance_from_market": 2.7,
+  "distance_from_schools": 1.9
+}

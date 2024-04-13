@@ -1,0 +1,22 @@
+{
+  "image": [
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-2/1.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-2/2.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-2/3.jpg",
+    "https://ornate-moonbeam-6afef4.netlify.app/apparment-2/4.jpg"
+  ],
+  "title": "Cozy Apartment in Downtown",
+  "id": "002",
+  "segment_name": "City Apartments",
+  "short_description": "Located in the vibrant heart of the city, this cozy apartment offers a perfect blend of urban convenience and comfort. Step inside to discover a well-appointed living space flooded with natural light, complete with hardwood floors and sleek modern finishes. The open-concept layout seamlessly connects the living, dining, and kitchen areas, creating an inviting atmosphere ideal for both relaxing nights in and lively gatherings with friends. With shops, restaurants, and cultural attractions just steps away, you'll enjoy effortless access to everything the city has to offer. Whether you're a young professional seeking a stylish urban retreat or a savvy investor looking for a prime rental property, this downtown apartment is sure to impress.",
+  "price": 800000,
+  "status": "sale",
+  "area": 1200,
+  "location": "Downtown",
+  "facilities": [1, 0, 1, 2],
+  "acres": 0.5,
+  "latitude": 40.7128,
+  "longitude": -74.006,
+  "distance_from_market": 0.5,
+  "distance_from_schools": 0.4
+}
