@@ -1,10 +1,10 @@
 [
   {
-    "image": "https://example.com/image1.jpg",
+    "image": "https://ornate-moonbeam-6afef4.netlify.app/apparment-1/1.jpg",
     "title": "Luxury Villa with Ocean View",
     "id": "001",
     "segment_name": "Luxury Homes",
-    "short_description": "Stunning villa overlooking the ocean, with spacious living areas and modern amenities.",
+    "short_description": "Perched atop a cliff overlooking the azure waters of the ocean, this stunning villa offers a lifestyle of unparalleled luxury and tranquility. With expansive living spaces designed for both relaxation and entertainment, every corner of this home exudes elegance and sophistication. From the grand foyer adorned with marble floors to the sprawling master suite featuring panoramic views, no detail has been overlooked in crafting this masterpiece of modern living. Step outside to discover meticulously landscaped gardens, a private infinity pool, and multiple terraces perfect for soaking in the sun or enjoying al fresco dining with loved ones. Whether you're seeking a peaceful retreat or a show-stopping venue for entertaining, this oceanfront oasis is sure to exceed your every expectation.",
     "price": 1500000,
     "status": "sale",
     "area": 4000,
@@ -12,11 +12,11 @@
     "facilities": [3, 1, 1, 4]
   },
   {
-    "image": "https://example.com/image2.jpg",
+    "image": "https://ornate-moonbeam-6afef4.netlify.app/apparment-2/1.jpg",
     "title": "Cozy Apartment in Downtown",
     "id": "002",
     "segment_name": "City Apartments",
-    "short_description": "Charming apartment located in the heart of the city, close to shops and entertainment.",
+    "short_description": "Located in the vibrant heart of the city, this cozy apartment offers a perfect blend of urban convenience and comfort. Step inside to discover a well-appointed living space flooded with natural light, complete with hardwood floors and sleek modern finishes. The open-concept layout seamlessly connects the living, dining, and kitchen areas, creating an inviting atmosphere ideal for both relaxing nights in and lively gatherings with friends. With shops, restaurants, and cultural attractions just steps away, you'll enjoy effortless access to everything the city has to offer. Whether you're a young professional seeking a stylish urban retreat or a savvy investor looking for a prime rental property, this downtown apartment is sure to impress.",
     "price": 800000,
     "status": "sale",
     "area": 1200,
@@ -24,11 +24,11 @@
     "facilities": [1, 0, 1, 2]
   },
   {
-    "image": "https://example.com/image3.jpg",
+    "image": "https://ornate-moonbeam-6afef4.netlify.app/apparment-3/1.jpg",
     "title": "Family House with Garden",
     "id": "003",
     "segment_name": "Family Homes",
-    "short_description": "Spacious family home with a beautiful garden, perfect for kids and outdoor activities.",
+    "short_description": "Nestled in a peaceful suburban neighborhood, this charming family house offers the perfect setting for creating lifelong memories. Step through the front door and into a warm and welcoming living space, where large windows flood the room with natural light and offer picturesque views of the lush backyard garden. The heart of the home is the spacious kitchen, complete with modern appliances and ample counter space, perfect for preparing family meals or hosting festive gatherings. With multiple bedrooms and bathrooms spread across two levels, there's plenty of room for everyone to have their own space. Outside, the expansive backyard beckons with its manicured lawn, mature trees, and paved patio area, providing an idyllic backdrop for outdoor play and relaxation. Whether you're enjoying a lazy afternoon in the hammock or gathering around the fire pit for s'mores under the stars, this family house offers a slice of suburban paradise.",
     "price": 600000,
     "status": "sale",
     "area": 2500,
@@ -36,11 +36,11 @@
     "facilities": [4, 0, 1, 3]
   },
   {
-    "image": "https://example.com/image4.jpg",
+    "image": "https://ornate-moonbeam-6afef4.netlify.app/apparment-4/1.jpg",
     "title": "Modern Loft with City Views",
     "id": "004",
     "segment_name": "Loft Apartments",
-    "short_description": "Sleek and stylish loft apartment with panoramic views of the city skyline.",
+    "short_description": "Perched high above the bustling city streets, this modern loft offers a stylish urban retreat with panoramic views that stretch as far as the eye can see. Step inside and be greeted by soaring ceilings, exposed brick walls, and sleek industrial-inspired design elements that create a chic and contemporary atmosphere. The open-concept layout seamlessly blends the living, dining, and kitchen areas, making it ideal for both everyday living and entertaining guests. Floor-to-ceiling windows flood the space with natural light and offer stunning vistas of the city skyline, providing a constant reminder of the vibrant energy that surrounds you. With trendy restaurants, boutiques, and cultural venues just steps away, you'll experience the very best that city living has to offer from the comfort of your own private sanctuary.",
     "price": 1000000,
     "status": "rent",
     "area": 1500,
@@ -48,11 +48,11 @@
     "facilities": [1, 0, 1, 2]
   },
   {
-    "image": "https://example.com/image5.jpg",
+    "image": "https://ornate-moonbeam-6afef4.netlify.app/apparment-5/1.jpg",
     "title": "Country Retreat House",
     "id": "005",
     "segment_name": "Rural Homes",
-    "short_description": "Escape to the countryside with this charming retreat house surrounded by nature.",
+    "short_description": "Escape the hustle and bustle of city life with this charming country retreat nestled amidst rolling hills and picturesque landscapes. Surrounded by acres of untouched wilderness, this cozy home offers a peaceful sanctuary where you can reconnect with nature and recharge your soul. Step inside to discover a rustic yet inviting living space, complete with exposed wooden beams, stone fireplace, and panoramic views of the surrounding countryside. The spacious kitchen features modern appliances and plenty of counter space, making it perfect for preparing hearty meals using fresh ingredients from the local farmers' market. With multiple bedrooms and bathrooms, there's plenty of room for family and friends to come together and enjoy quality time away from the distractions of everyday life. Outside, the expansive grounds offer endless opportunities for outdoor adventure, from hiking and horseback riding to birdwatching and stargazing. Whether you're seeking a weekend getaway or a permanent retreat from the stresses of modern living, this country retreat house offers the perfect blend of comfort, tranquility, and natural beauty.",
     "price": 500000,
     "status": "sale",
     "area": 3000,
@@ -60,11 +60,11 @@
     "facilities": [3, 0, 1, 2]
   },
   {
-    "image": "https://example.com/image6.jpg",
+    "image": "https://ornate-moonbeam-6afef4.netlify.app/apparment-6/1.jpg",
     "title": "Penthouse with Rooftop Terrace",
     "id": "006",
     "segment_name": "Luxury Apartments",
-    "short_description": "Elegant penthouse apartment with a private rooftop terrace and breathtaking views.",
+    "short_description": "Experience the pinnacle of urban living with this luxurious penthouse apartment boasting a private rooftop terrace and unparalleled views of the city skyline. Step off the private elevator directly into the foyer, where floor-to-ceiling windows bathe the space in natural light and offer sweeping vistas of the surrounding metropolis. The open-concept layout seamlessly connects the living, dining, and kitchen areas, creating an ideal space for both intimate gatherings and lavish soirées. The gourmet kitchen is a chef's dream, featuring top-of-the-line appliances, custom cabinetry, and a spacious island perfect for culinary experimentation. Retreat to the master suite, where a sumptuous en-suite bathroom and walk-in closet provide the ultimate in comfort and convenience. Outside, the expansive rooftop terrace beckons with its lush greenery, comfortable seating areas, and panoramic views stretching to the horizon. Whether you're sipping cocktails under the stars or hosting a dinner party with friends, this penthouse offers an unparalleled lifestyle of luxury and refinement in the heart of the city.",
     "price": 2000000,
     "status": "sale",
     "area": 1800,
