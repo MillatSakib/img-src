@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://example.com/image1.jpg",
+    "title": "Luxury Villa with Ocean View",
+    "id": "001",
+    "segment_name": "Luxury Homes",
+    "short_description": "Stunning villa overlooking the ocean, with spacious living areas and modern amenities.",
+    "price": 1500000,
+    "status": "sale",
+    "area": 4000,
+    "location": "Coastal City",
+    "facilities": [3, 1, 1, 4]
+  },
+  {
+    "image": "https://example.com/image2.jpg",
+    "title": "Cozy Apartment in Downtown",
+    "id": "002",
+    "segment_name": "City Apartments",
+    "short_description": "Charming apartment located in the heart of the city, close to shops and entertainment.",
+    "price": 800000,
+    "status": "sale",
+    "area": 1200,
+    "location": "Downtown",
+    "facilities": [1, 0, 1, 2]
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "title": "Family House with Garden",
+    "id": "003",
+    "segment_name": "Family Homes",
+    "short_description": "Spacious family home with a beautiful garden, perfect for kids and outdoor activities.",
+    "price": 600000,
+    "status": "sale",
+    "area": 2500,
+    "location": "Suburban Area",
+    "facilities": [4, 0, 1, 3]
+  },
+  {
+    "image": "https://example.com/image4.jpg",
+    "title": "Modern Loft with City Views",
+    "id": "004",
+    "segment_name": "Loft Apartments",
+    "short_description": "Sleek and stylish loft apartment with panoramic views of the city skyline.",
+    "price": 1000000,
+    "status": "rent",
+    "area": 1500,
+    "location": "Urban Area",
+    "facilities": [1, 0, 1, 2]
+  },
+  {
+    "image": "https://example.com/image5.jpg",
+    "title": "Country Retreat House",
+    "id": "005",
+    "segment_name": "Rural Homes",
+    "short_description": "Escape to the countryside with this charming retreat house surrounded by nature.",
+    "price": 500000,
+    "status": "sale",
+    "area": 3000,
+    "location": "Rural Area",
+    "facilities": [3, 0, 1, 2]
+  },
+  {
+    "image": "https://example.com/image6.jpg",
+    "title": "Penthouse with Rooftop Terrace",
+    "id": "006",
+    "segment_name": "Luxury Apartments",
+    "short_description": "Elegant penthouse apartment with a private rooftop terrace and breathtaking views.",
+    "price": 2000000,
+    "status": "sale",
+    "area": 1800,
+    "location": "City Center",
+    "facilities": [2, 1, 1, 3]
+  }
+]
