@@ -13,7 +13,7 @@
   "status": "sale",
   "area": 2500,
   "location": "Suburban Area",
-  "facilities": [4, 0, 1, 3],
+  "facilities": [4, 0, 1, 5],
   "acres": 1.2,
   "latitude": 34.0522,
   "longitude": -118.2437,
