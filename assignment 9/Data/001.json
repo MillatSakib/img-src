@@ -18,5 +18,12 @@
   "latitude": 37.7749,
   "longitude": -122.4194,
   "distance_from_market": 1.5,
-  "distance_from_schools": 0.8
+  "distance_from_schools": 0.8,
+  "availability": {
+    "fan": true,
+    "ac": true,
+    "location": "Bed Room, Dining Room"
+  },
+  "dining_area": "Formal Dining Room",
+  "area_source": "Survey"
 }

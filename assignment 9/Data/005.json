@@ -18,5 +18,12 @@
   "latitude": 51.5074,
   "longitude": 0.1278,
   "distance_from_market": 2.7,
-  "distance_from_schools": 1.9
+  "distance_from_schools": 1.9,
+  "availability": {
+    "fan": true,
+    "ac": true,
+    "location": "All Rooms"
+  },
+  "dining_area": "Country-style Kitchen",
+  "area_source": "Survey"
 }

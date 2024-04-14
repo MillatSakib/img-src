@@ -18,5 +18,12 @@
   "latitude": 40.7128,
   "longitude": -74.006,
   "distance_from_market": 0.5,
-  "distance_from_schools": 0.4
+  "distance_from_schools": 0.4,
+  "availability": {
+    "fan": true,
+    "ac": false,
+    "location": "Living Room, Bedrooms"
+  },
+  "dining_area": "Open Kitchen",
+  "area_source": "Builder's Plan"
 }

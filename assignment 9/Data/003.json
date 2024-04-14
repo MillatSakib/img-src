@@ -18,5 +18,12 @@
   "latitude": 34.0522,
   "longitude": -118.2437,
   "distance_from_market": 1.5,
-  "distance_from_schools": 1.2
+  "distance_from_schools": 1.2,
+  "availability": {
+    "fan": true,
+    "ac": true,
+    "location": "All Rooms"
+  },
+  "dining_area": "Family Kitchen",
+  "area_source": "Land Registry"
 }
